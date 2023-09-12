@@ -1,9 +1,9 @@
+# calculator.py
 
+class Calculator:
+    def add(self, a, b):
+        return a + b
 
-import numpy as np
+    def subtract(self, a, b):
+        return a - b
 
-
-print("hello")
-
-
-print(np.random.randint(43,122))
